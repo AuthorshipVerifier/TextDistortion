@@ -1,4 +1,4 @@
-from textdistortion import TextDistorter
+from text_distortion import TextDistorter
 
 distorter = TextDistorter()
 
